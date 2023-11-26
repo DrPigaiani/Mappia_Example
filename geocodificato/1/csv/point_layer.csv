@@ -1,0 +1,251 @@
+X,Y,Field1,osm_type,display_name,place_id,class,type,road,village,city_district,town,city,state,country,postcode,icon_url
+-86.6921652663562,33.6149565428339,"1115 Woodslee Street, Birmingham",way,"1115, Woodslee Street, Berkley Hills, Birmingham, Jefferson County, Alabama, 35215, Stati Uniti d'America","353438331",place,house,Woodslee Street,,,,Birmingham,Alabama,Stati Uniti d'America,"35215",./0.png
+-86.878215,33.473996,"1640 Jefferson Avenue, Birmingham",way,"Jefferson Avenue, Hyde Park, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","282026",highway,tertiary,Jefferson Avenue,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+0,0,"103 Delawood Manor Lane, Forestdale",,,,,,,,,,,,,,./0.png
+-86.9338912,33.4565683,"1000 Glen Oaks, Fairfield",node,"Glen Oaks, Fairfield, Jefferson County, Alabama, 35228, Stati Uniti d'America","297821",place,hamlet,,,,Fairfield,,Alabama,Stati Uniti d'America,"35228",./0.png
+-86.9500005918367,33.4376908367347,"4505 Letson Street, Brighton",way,"4505, Letson Street, East Brighton, Brighton, Jefferson County, Alabama, 35020, Stati Uniti d'America","353416817",place,house,Letson Street,Brighton,,,,Alabama,Stati Uniti d'America,"35020",./0.png
+-86.8630248473961,33.4874354599275,"1691 Lee Avenue SW, Birmingham",way,"1691, Lee Avenue Southwest, Berney Points, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","353427906",place,house,Lee Avenue Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+0,0,"7403 Frazier Circle, Pinson",,,,,,,,,,,,,,./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+-86.883066,33.512569,"4833 Court R Ensley, Birmingham",way,"Court R, Ensley, Birmingham, Jefferson County, Alabama, 35218, Stati Uniti d'America","226220",highway,residential,Court R,,,,Birmingham,Alabama,Stati Uniti d'America,"35218",./0.png
+-86.8362978,33.4764091,"1117 Cross Creek Court, Birmingham",way,"Cross Creek Court, Spaulding, Birmingham, Jefferson County, Alabama, 35209, Stati Uniti d'America","284396",highway,service,Cross Creek Court,,,,Birmingham,Alabama,Stati Uniti d'America,"35209",./0.png
+-86.9653534545455,33.3781956363636,"18 Main Street, Bessemer",way,"18, Main Street, Anns Trailer Court, Jonesboro, Bessemer, Jefferson County, Alabama, 35020, Stati Uniti d'America","353428223",place,house,Main Street,,,Bessemer,,Alabama,Stati Uniti d'America,"35020",./0.png
+-86.978581,33.62473,"130 Porter Crest Road, Graysville",way,"Porter Crest Road, Sherwood Hills, Graysville, Jefferson County, Alabama, 35073, Stati Uniti d'America","234645",highway,residential,Porter Crest Road,Graysville,,,,Alabama,Stati Uniti d'America,"35073",./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8360759194631,33.4926776979866,"400 Goldwire circle, Birmingham",way,"400, Goldwire Circle Southwest, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","353432813",place,house,Goldwire Circle Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+0,0,"1624C 19th Street Enlsey, Birmingham",,,,,,,,,,,,,,./0.png
+74.7247252746277,23.2178602,unknown,relation,"Unknown, Amarpura Kalan, Rawti Tahsil, Ratlam District, Madhya Pradesh, India","372197706",boundary,administrative,,Amarpura Kalan,Unknown,,,Madhya Pradesh,India,,./0.png
+0,0,"374 Kirtley Drive, Adger",,,,,,,,,,,,,,./0.png
+0,0,"2614 Bone Dry Road, Trafford",,,,,,,,,,,,,,./0.png
+-86.834771,33.50984,"446 1st Street North, Birmingham",way,"446, 1st Street North, Smithfield Court, Graymont, Birmingham, Jefferson County, Alabama, 35204, Stati Uniti d'America","353441361",place,house,1st Street North,,,,Birmingham,Alabama,Stati Uniti d'America,"35204",./0.png
+0,0,"1225 Boyles Mill Road, Dalton",,,,,,,,,,,,,,./0.png
+0,0,"1431 W Sanders Street, Anniston",,,,,,,,,,,,,,./0.png
+-86.837379,33.464109,"11 Aspen Ct, Homewood",way,"Aspen Court, Homewood, Jefferson County, Alabama, 35209, Stati Uniti d'America","273202",highway,service,Aspen Court,,,Homewood,,Alabama,Stati Uniti d'America,"35209",./0.png
+-86.7204683993569,33.4405602512921,"3545 Grandview Pkwy, Birmingham",way,"3545, Grandview Parkway, Birmingham, Jefferson County, Alabama, 35243, Stati Uniti d'America","353387249",place,house,Grandview Parkway,,,,Birmingham,Alabama,Stati Uniti d'America,"35243",./0.png
+-86.8834013265306,33.4903383469388,"4637 Avenue S, Birmingham",way,"4637, Avenue S, Central Park Highlands, Birmingham, Jefferson County, Alabama, 35208, Stati Uniti d'America","353364393",place,house,Avenue S,,,,Birmingham,Alabama,Stati Uniti d'America,"35208",./0.png
+-86.7169062608696,33.5619563478261,"623 80th Street South, Birmingham",way,"623, 80th Street South, East Lake, Birmingham, Jefferson County, Alabama, 35206, Stati Uniti d'America","353376847",place,house,80th Street South,,,,Birmingham,Alabama,Stati Uniti d'America,"35206",./0.png
+0,0,"1120 Meadows Drive, Irondale",,,,,,,,,,,,,,./0.png
+-86.7319943265771,33.4643655457208,"2875 Crowne Ridge Drive, Vestavia",way,"2875, Crowne Ridge Drive, The Crowne, Asbury Park, Cahaba Heights, Vestavia Hills, Jefferson County, Alabama, 35243, Stati Uniti d'America","353404385",place,house,Crowne Ridge Drive,Cahaba Heights,,Vestavia Hills,,Alabama,Stati Uniti d'America,"35243",./0.png
+-86.980992,33.388361,"399 Gloria Road, Bessemer",way,"399, Gloria Road, Circle Heights, Skyview, Bessemer, Jefferson County, Alabama, 35022, Stati Uniti d'America","353428082",place,house,Gloria Road,,,Bessemer,,Alabama,Stati Uniti d'America,"35022",./0.png
+-86.9384551632653,33.4041401632653,"2525 Exeter Avenue, Bessemer",way,"2525, Exeter Avenue, Longbrook Estates, Bessemer Homestead, Bessemer, Jefferson County, Alabama, 35020, Stati Uniti d'America","353404329",place,house,Exeter Avenue,,,Bessemer,,Alabama,Stati Uniti d'America,"35020",./0.png
+-86.837864,33.528207,"101 16th Avenue West, Birmingham",way,"101, 16th Avenue West, Birmingham, Jefferson County, Alabama, 35204, Stati Uniti d'America","353419071",place,house,16th Avenue West,,,,Birmingham,Alabama,Stati Uniti d'America,"35204",./0.png
+-86.7978277965616,33.3910191260745,"406 Hampton Pl., Hoover",way,"406, Hampton Place, Forest Ridge Estates, Patton Chapel, Hoover, Jefferson County, Alabama, 35216, Stati Uniti d'America","353399755",place,house,Hampton Place,,,,Hoover,Alabama,Stati Uniti d'America,"35216",./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"7064 Claymont Dr, Pinson",,,,,,,,,,,,,,./0.png
+-86.836402,33.445377,"272 Snow Drive, Homewood",way,"272, Snow Drive, Edgemont Park, Homewood, Jefferson County, Alabama, 35209, Stati Uniti d'America","353364484",place,house,Snow Drive,,,Homewood,,Alabama,Stati Uniti d'America,"35209",./0.png
+0,0,"4800 North Smithfield Drive, Birmingham",,,,,,,,,,,,,,./0.png
+-86.66798,33.643352,"2048  7th Street NE, Center Point",way,"7th Street Northeast, Centerwood Estates, Center Point, Jefferson County, Alabama, 35215, Stati Uniti d'America","201546",highway,residential,7th Street Northeast,,,Center Point,,Alabama,Stati Uniti d'America,"35215",./0.png
+-86.8279659569381,33.6691982933643,"1967 Harrison Drive, Gardendale",way,"1967, Harrison Drive, Gardendale, Jefferson County, Alabama, 35071, Stati Uniti d'America","353369245",place,house,Harrison Drive,,,Gardendale,,Alabama,Stati Uniti d'America,"35071",./0.png
+-89.8861712736287,31.9508625594961,"136 Pine Lane, Mendenhall",way,"136, Pine Lane, Mendenhall, Simpson County, Mississippi, 39114, Stati Uniti d'America","338158666",place,house,Pine Lane,Mendenhall,,,,Mississippi,Stati Uniti d'America,"39114",./0.png
+-86.7594339410086,33.0966351640125,"2115 18th St, Calera",way,"2115, 18th Street, Calera, Shelby County, Alabama, 35040, Stati Uniti d'America","356452801",place,house,18th Street,,,Calera,,Alabama,Stati Uniti d'America,"35040",./0.png
+-86.6774186601441,33.6570643856869,"317 Oxford Acres Circle, Center Point",way,"317, Oxford Acres Circle, Centercrest, Center Point, Jefferson County, Alabama, 35215, Stati Uniti d'America","353366467",place,house,Oxford Acres Circle,,,Center Point,,Alabama,Stati Uniti d'America,"35215",./0.png
+-86.828389,33.507724,"6812 5th Street N, Birmingham",way,"5th Street North, Smithfield Historic District, Graymont, Birmingham, Jefferson County, Alabama, 35204, Stati Uniti d'America","211236",highway,residential,5th Street North,,,,Birmingham,Alabama,Stati Uniti d'America,"35204",./0.png
+74.7247252746277,23.2178602,unknown,relation,"Unknown, Amarpura Kalan, Rawti Tahsil, Ratlam District, Madhya Pradesh, India","372197706",boundary,administrative,,Amarpura Kalan,Unknown,,,Madhya Pradesh,India,,./0.png
+-86.7330061,33.8875392,"3140 Armstrong Loop, Hayden",way,"Armstrong Loop, Hayden, Blount County, Alabama, 35079, Stati Uniti d'America","228106",highway,residential,Armstrong Loop,Hayden,,,,Alabama,Stati Uniti d'America,"35079",./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"8941 Jade Lake Road West, Pinson",,,,,,,,,,,,,,./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"618 3rd Avenue, Mulga",,,,,,,,,,,,,,./0.png
+-86.944707,33.631437,"4400 Cherry Avenue, Graysville",way,"4400, Cherry Avenue, Blossburg, Graysville, Jefferson County, Alabama, 35073, Stati Uniti d'America","353447727",place,house,Cherry Avenue,Graysville,,,,Alabama,Stati Uniti d'America,"35073",./0.png
+-86.8556280816327,33.5062678163265,"1136 4th Avenue West, Birmingham",way,"1136, 4th Avenue West, Owenton, Birmingham, Jefferson County, Alabama, 35204, Stati Uniti d'America","353441340",place,house,4th Avenue West,,,,Birmingham,Alabama,Stati Uniti d'America,"35204",./0.png
+-86.9694776666667,33.477884,"430 13th Place, Pleasant Grove",way,"430, 13th Place, Cottage Hill, Pleasant Grove, Jefferson County, Alabama, 35127, Stati Uniti d'America","353419496",place,house,13th Place,,,Pleasant Grove,,Alabama,Stati Uniti d'America,"35127",./0.png
+0,0,"1633 50th Street Ensley, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8156088963597,33.780917120277,"9019 Kim Lane, Kimberly",way,"9019, Kim Lane, Kimberly, Jefferson County, Alabama, 35091, Stati Uniti d'America","353403231",place,house,Kim Lane,Kimberly,,,,Alabama,Stati Uniti d'America,"35091",./0.png
+-86.6884270894963,33.6157680018512,"7 Nekoma Drive, Birmingham",way,"7, Nekoma Drive, Berkley Hills, Birmingham, Jefferson County, Alabama, 35215, Stati Uniti d'America","353405137",place,house,Nekoma Drive,,,,Birmingham,Alabama,Stati Uniti d'America,"35215",./0.png
+0,0,"365 County Line Road, Trafford",,,,,,,,,,,,,,./0.png
+-86.9267917246249,33.4132695972963,"3318 Short Avenue D, Bessemer",way,"3318, Short Avenue D, Pauls Hill, Bessemer, Jefferson County, Alabama, 35020, Stati Uniti d'America","353396088",place,house,Short Avenue D,,,Bessemer,,Alabama,Stati Uniti d'America,"35020",./0.png
+0,0,"7722 Dollar Road, Trusville",,,,,,,,,,,,,,./0.png
+-86.9314711713305,33.4534116472144,"1009 Park Ridge Avenue, Fairfield",way,"1009, Park Ridge Avenue, Glen Oaks, Fairfield, Jefferson County, Alabama, 35064, Stati Uniti d'America","353442522",place,house,Park Ridge Avenue,,,Fairfield,,Alabama,Stati Uniti d'America,"35064",./0.png
+-86.9525409359282,33.3847344056339,"811 Fairfax Avenue, Bessemer",way,"811, Fairfax Avenue, Longbrook Estates, Cloverdale, Bessemer, Jefferson County, Alabama, 35020, Stati Uniti d'America","353371091",place,house,Fairfax Avenue,,,Bessemer,,Alabama,Stati Uniti d'America,"35020",./0.png
+-86.582051,33.52886,"7201 Wood Carriage Cove, Leeds",way,"7201, Wood Carriage Cove, Leeds, Jefferson County, Alabama, 35094, Stati Uniti d'America","353370172",place,house,Wood Carriage Cove,,,Leeds,,Alabama,Stati Uniti d'America,"35094",./0.png
+0,0,"1529 Bush Bulevard, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8066201300144,33.6213474625526,"531 Fultonbrook Drive, Fultondale",way,"531, Fultonbrook Drive, Fulton Springs, Fultondale, Jefferson County, Alabama, 35068, Stati Uniti d'America","353423940",place,house,Fultonbrook Drive,,,Fultondale,,Alabama,Stati Uniti d'America,"35068",./0.png
+-86.710887,33.5682908,"8412 7th Avenue South, Birmingham",way,"8412, 7th Avenue South, South Highlands, Birmingham, Jefferson County, Alabama, 35206, Stati Uniti d'America","353409955",place,house,7th Avenue South,,,,Birmingham,Alabama,Stati Uniti d'America,"35206",./0.png
+-86.7270219591837,33.5234656734694,"1429 Montclair Road, Birmingham",way,"1429, Montclair Road, Red Mountain Suburbs Historic District, Crestview Hills, Birmingham, Jefferson County, Alabama, 35210, Stati Uniti d'America","353378479",place,house,Montclair Road,,,,Birmingham,Alabama,Stati Uniti d'America,"35210",./0.png
+-86.6836001020408,33.6213918163265,"122 14th Ave NE, Center Point",way,"122, 14th Avenue Northeast, East Haven, Center Point, Jefferson County, Alabama, 35215, Stati Uniti d'America","353394226",place,house,14th Avenue Northeast,,,Center Point,,Alabama,Stati Uniti d'America,"35215",./0.png
+-86.8907026101956,33.3987292097341,"2400 Chalybe Trail, Hoover",way,"2400, Chalybe Trail, Ross Bridge, Hoover, Jefferson County, Alabama, 35226, Stati Uniti d'America","353426172",place,house,Chalybe Trail,,,,Hoover,Alabama,Stati Uniti d'America,"35226",./0.png
+-86.8125119591837,33.5664891836735,"4213 Fairmont Way, Birmingham",way,"4213, Fairmont Way North, North Birmingham, Birmingham, Jefferson County, Alabama, 35207, Stati Uniti d'America","353387741",place,house,Fairmont Way North,,,,Birmingham,Alabama,Stati Uniti d'America,"35207",./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8380222653061,33.5154958979592,"108 9th Avenue west, Birmingham",way,"108, 9th Avenue West, Smithfield Historic District, Graymont, Birmingham, Jefferson County, Alabama, 35204, Stati Uniti d'America","353397147",place,house,9th Avenue West,,,,Birmingham,Alabama,Stati Uniti d'America,"35204",./0.png
+-86.9293211414081,33.4549276361866,"218 3rd Avenue, Midfield",way,"218, 3rd Avenue, Wilkes, Midfield, Jefferson County, Alabama, 35228, Stati Uniti d'America","353430368",place,house,3rd Avenue,,,Midfield,,Alabama,Stati Uniti d'America,"35228",./0.png
+-86.9886568858608,33.4233213527814,"1855 Edgehill Drive, Hueytown",way,"1855, Edgehill Drive, North Highlands, Hueytown, Jefferson County, Alabama, 35023, Stati Uniti d'America","353407661",place,house,Edgehill Drive,,,Hueytown,,Alabama,Stati Uniti d'America,"35023",./0.png
+-86.7614136160344,33.6668353520623,"2016 Paradise Valley Road, Gardendale",way,"2016, Paradise Valley Road, Cunningham, Gardendale, Jefferson County, Alabama, 35071, Stati Uniti d'America","353367919",place,house,Paradise Valley Road,,,Gardendale,,Alabama,Stati Uniti d'America,"35071",./0.png
+-86.7207811428571,33.564223122449,"8025 3rd Avenue South, Birmingham",way,"8025, 3rd Avenue South, South Highlands, Birmingham, Jefferson County, Alabama, 35206, Stati Uniti d'America","353373066",place,house,3rd Avenue South,,,,Birmingham,Alabama,Stati Uniti d'America,"35206",./0.png
+-86.8082197,33.5156731,"8217 3rd Avenue North, Birmingham",way,"3rd Avenue North, Fourth Avenue Historic District, Birmingham, Jefferson County, Alabama, 35203, Stati Uniti d'America","209490",highway,secondary,3rd Avenue North,,,,Birmingham,Alabama,Stati Uniti d'America,"35203",./0.png
+0,0,"2910 Hunter Ridge Street, Irondale",,,,,,,,,,,,,,./0.png
+0,0,"2884 Crown Ridge Drive, Vestavia",,,,,,,,,,,,,,./0.png
+-86.7737857346939,33.4901133469388,"2518 Beverly Drive, Mountain Brook",way,"2518, Beverly Drive, Lane Park, Mountain Brook Village, Mountain Brook, Jefferson County, Alabama, 35223, Stati Uniti d'America","353372013",place,house,Beverly Drive,,,Mountain Brook,,Alabama,Stati Uniti d'America,"35223",./0.png
+0,0,"3337 Cherrybrook Drive, Birmingham",,,,,,,,,,,,,,./0.png
+-86.863192244898,33.5079032857143,"1609 4th Terrace West, Birmingam",way,"1609, 4th Terrace West, Owenton, Birmingham, Jefferson County, Alabama, 35208, Stati Uniti d'America","353441035",place,house,4th Terrace West,,,,Birmingham,Alabama,Stati Uniti d'America,"35208",./0.png
+-86.683671,33.626816,"68 15th Terrace NE, Center Point",way,"68, 15th Terrace Northeast, Forest Acres, Center Point, Jefferson County, Alabama, 35215, Stati Uniti d'America","353382808",place,house,15th Terrace Northeast,,,Center Point,,Alabama,Stati Uniti d'America,"35215",./0.png
+-86.770715,33.560045,"4400 39th Avenue, Birmingham",way,"4400, 39th Avenue North, Bendale, Birmingham, Jefferson County, Alabama, 35217, Stati Uniti d'America","353389504",place,house,39th Avenue North,,,,Birmingham,Alabama,Stati Uniti d'America,"35217",./0.png
+0,0,"1766 Brookside Road, Mount Olive",,,,,,,,,,,,,,./0.png
+-86.9248437778394,33.4681204882062,"408 Ridgewood Avenue, Fairfield",way,"408, Ridgewood Avenue, Forest Hills, Fairfield, Jefferson County, Alabama, 35064, Stati Uniti d'America","353408023",place,house,Ridgewood Avenue,,,Fairfield,,Alabama,Stati Uniti d'America,"35064",./0.png
+-86.9145760873323,33.5161802036484,"2905 Price Street, Birmingham",way,"2905, Price Street, Birmingham, Jefferson County, Alabama, 35224, Stati Uniti d'America","353408345",place,house,Price Street,,,,Birmingham,Alabama,Stati Uniti d'America,"35224",./0.png
+0,0,"Homeless, Fairflield",,,,,,,,,,,,,,./0.png
+-86.8616096530612,33.5100125510204,"1504 Bush Boulevard W, Birmingham",way,"1504, Bush Boulevard West, Owenton, Birmingham, Jefferson County, Alabama, 35208, Stati Uniti d'America","353431589",place,house,Bush Boulevard West,,,,Birmingham,Alabama,Stati Uniti d'America,"35208",./0.png
+74.7247252746277,23.2178602,unknown,relation,"Unknown, Amarpura Kalan, Rawti Tahsil, Ratlam District, Madhya Pradesh, India","372197706",boundary,administrative,,Amarpura Kalan,Unknown,,,Madhya Pradesh,India,,./0.png
+0,0,"198 Oliver Street, Hertford",,,,,,,,,,,,,,./0.png
+-86.713574,33.568015,"600 83rd Place South, Birmingham",way,"600, 83rd Place South, South Highlands, Birmingham, Jefferson County, Alabama, 35206, Stati Uniti d'America","353387881",place,house,83rd Place South,,,,Birmingham,Alabama,Stati Uniti d'America,"35206",./0.png
+-87.1848045753936,33.5138917,"100 Warrior Lane, Bessemer",way,"William E. Donaldson Correctional Facility, 100, Warrior Lane, Bessemer, Jefferson County, Alabama, 35023, Stati Uniti d'America","248715",amenity,prison,Warrior Lane,,,Bessemer,,Alabama,Stati Uniti d'America,"35023",./0.png
+-86.9103268163265,33.4939798163265,"511 41st Street, Fairfield",way,"511, 41st Street, Ensley Junction, Fairfield, Jefferson County, Alabama, 35064, Stati Uniti d'America","353384901",place,house,41st Street,,,Fairfield,,Alabama,Stati Uniti d'America,"35064",./0.png
+0,0,"6507 Avenue K, Bessemer",,,,,,,,,,,,,,./0.png
+-86.7192450232558,33.5601594418605,"7821 6th Avenue South, Birmingham",way,"7821, 6th Avenue South, Central Highlands, Birmingham, Jefferson County, Alabama, 35206, Stati Uniti d'America","353395421",place,house,6th Avenue South,,,,Birmingham,Alabama,Stati Uniti d'America,"35206",./0.png
+0,0,"7531 Cook Road, Trusville",,,,,,,,,,,,,,./0.png
+0,0,"218 Spring Gardens Lane, Birmingham",,,,,,,,,,,,,,./0.png
+-86.837165855963,33.412282447134,"2270 South Sherrlyn Drive, Hoover",way,"2270, South Sherrlyn Drive, Belle Terre, Hoover, Jefferson County, Alabama, 35226, Stati Uniti d'America","353435295",place,house,South Sherrlyn Drive,,,,Hoover,Alabama,Stati Uniti d'America,"35226",./0.png
+0,0,"1907 Kelly loop Road, Mount Olive",,,,,,,,,,,,,,./0.png
+0,0,"544 Gasden Highway, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8549501644036,33.4715961204751,"1533 Arthur Shores Drive, Birmingham",way,"1533, Arthur Shores Drive Southwest, Mason City, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","353405548",place,house,Arthur Shores Drive Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8332391836735,33.4953269183673,"17 3rd Avenue SW, Birmingham",way,"17, 3rd Avenue Southwest, Elyton, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","353405981",place,house,3rd Avenue Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"5364 Doug Hollow Road, Pinson",,,,,,,,,,,,,,./0.png
+-86.7747776578947,33.5157312368421,"825 38th Street South, Birmingham",way,"825, 38th Street South, Avondale, Birmingham, Jefferson County, Alabama, 35222, Stati Uniti d'America","353394118",place,house,38th Street South,,,,Birmingham,Alabama,Stati Uniti d'America,"35222",./0.png
+-86.636736,33.696234,"5550 Melissa Dr., Pinson",way,"5550, Melissa Drive, Pinson, Jefferson County, Alabama, 35126, Stati Uniti d'America","353446079",place,house,Melissa Drive,,,,Pinson,Alabama,Stati Uniti d'America,"35126",./0.png
+-86.7862995050882,33.5249898764961,"3420 2nd Avenue North, Birmingham",way,"3420, 2nd Avenue North, Birmingham, Jefferson County, Alabama, 35222, Stati Uniti d'America","353441772",place,house,2nd Avenue North,,,,Birmingham,Alabama,Stati Uniti d'America,"35222",./0.png
+0,0,"2651 Laurel Oaks Drive Rm, Bessemer",,,,,,,,,,,,,,./0.png
+74.7247252746277,23.2178602,unknown,relation,"Unknown, Amarpura Kalan, Rawti Tahsil, Ratlam District, Madhya Pradesh, India","372197706",boundary,administrative,,Amarpura Kalan,Unknown,,,Madhya Pradesh,India,,./0.png
+-86.593042,33.59602,"3186 Smith Sims Road, Trussville",way,"3186, Smith Sims Road, Roper, Trussville, Jefferson County, Alabama, 35173, Stati Uniti d'America","353415058",place,house,Smith Sims Road,,,Trussville,,Alabama,Stati Uniti d'America,"35173",./0.png
+0,0,"1621 County Road 627, Thorsby",,,,,,,,,,,,,,./0.png
+0,0,"1466 Sardis Road, Gardendale",,,,,,,,,,,,,,./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8919151428571,33.5004651428571,"1455 29th Street Ensley, Birmingham",way,"1455, 29th Street Ensley, Ensley Highlands, Birmingham, Jefferson County, Alabama, 35218, Stati Uniti d'America","353440400",place,house,29th Street Ensley,,,,Birmingham,Alabama,Stati Uniti d'America,"35218",./0.png
+-86.7732972173913,33.5360765652174,"4313 7th Avenue North, Birmingham",way,"4313, 7th Avenue North, Kingston, Birmingham, Jefferson County, Alabama, 35212, Stati Uniti d'America","353364321",place,house,7th Avenue North,,,,Birmingham,Alabama,Stati Uniti d'America,"35212",./0.png
+-86.8555461836735,33.5061048367347,"1133 4th Avenue West, Birmingham",way,"1133, 4th Avenue West, Owenton, Birmingham, Jefferson County, Alabama, 35204, Stati Uniti d'America","353441350",place,house,4th Avenue West,,,,Birmingham,Alabama,Stati Uniti d'America,"35204",./0.png
+0,0,"8 Water Town Circle, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"3124 51th Avenue North, Birmingham",,,,,,,,,,,,,,./0.png
+74.7247252746277,23.2178602,unknown,relation,"Unknown, Amarpura Kalan, Rawti Tahsil, Ratlam District, Madhya Pradesh, India","372197706",boundary,administrative,,Amarpura Kalan,Unknown,,,Madhya Pradesh,India,,./0.png
+-86.7335723100643,33.5657996402243,"508 78th Street North, Birmingham",way,"508, 78th Street North, Trotwood Park, Birmingham, Jefferson County, Alabama, 35206, Stati Uniti d'America","353396272",place,house,78th Street North,,,,Birmingham,Alabama,Stati Uniti d'America,"35206",./0.png
+-86.852063,33.471871,"1445-D Hugh Denman Drive SW, Birmingham",way,"Hugh Denman Drive Southwest, Mason City, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","291067",highway,residential,Hugh Denman Drive Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+-86.937149,33.525959,"1101 Trenton Place, Birmingham",way,"Trenton Place, Birmingham, Jefferson County, Alabama, 35224, Stati Uniti d'America","216128",highway,residential,Trenton Place,,,,Birmingham,Alabama,Stati Uniti d'America,"35224",./0.png
+-86.8023549512195,33.4904656585366,"1407 17th Avenue South, Birmingham",way,"1407, 17th Avenue South, Cullom Street-Twelfth Street South Historic District, Glen Iris, Birmingham, Jefferson County, Alabama, 35205, Stati Uniti d'America","353364671",place,house,17th Avenue South,,,,Birmingham,Alabama,Stati Uniti d'America,"35205",./0.png
+0,0,"2385 Zinna Drive, Hueytown",,,,,,,,,,,,,,./0.png
+-86.802795,33.419708,"3029 Massey Road, Vestavia Hills",way,"3029, Massey Road, Crossgate, Gentilly Forest, Vestavia Hills, Jefferson County, Alabama, 35216, Stati Uniti d'America","353383825",place,house,Massey Road,,,Vestavia Hills,,Alabama,Stati Uniti d'America,"35216",./0.png
+-86.8245024285714,33.5449484285714,"2015 26th Avenue North, Birmingham",way,"2015, 26th Avenue North, North Birmingham, Birmingham, Jefferson County, Alabama, 35234, Stati Uniti d'America","353387969",place,house,26th Avenue North,,,,Birmingham,Alabama,Stati Uniti d'America,"35234",./0.png
+-86.75346,33.523705,"1100 52nd Street South, Birmingham",way,"1100, 52nd Street South, Birmingham, Jefferson County, Alabama, 35222, Stati Uniti d'America","353383089",place,house,52nd Street South,,,,Birmingham,Alabama,Stati Uniti d'America,"35222",./0.png
+-86.8087918163265,33.5670643673469,"3021 42nd Avenue North, Birmingham",way,"3021, 42nd Avenue North, Birmingham, Jefferson County, Alabama, 35207, Stati Uniti d'America","353385538",place,house,42nd Avenue North,,,,Birmingham,Alabama,Stati Uniti d'America,"35207",./0.png
+0,0,"353 Ranchero Drive, Jasper",,,,,,,,,,,,,,./0.png
+0,0,"5839 Walnut Grove Road, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"21456 Lesley Drive, Lake View",,,,,,,,,,,,,,./0.png
+-86.919133755102,33.5036314285714,"4221 9th Avenue Wylam, Birmingham",way,"4221, 9th Avenue, Falls Junction, Birmingham, Jefferson County, Alabama, 35224, Stati Uniti d'America","353364066",place,house,9th Avenue,,,,Birmingham,Alabama,Stati Uniti d'America,"35224",./0.png
+0,0,"38 Aspen Cove, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8715108163265,33.4556280816327,"2611 22nd Street SW, Birmingham",way,"2611, 22nd Street Southwest, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","353383252",place,house,22nd Street Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+0,0,"414 McAdory Avenue, Bessemer",,,,,,,,,,,,,,./0.png
+-86.7081470019395,33.5671615827828,"8411 8th Avenue South, Birmingham",way,"8411, 8th Avenue South, Lakewood, Birmingham, Jefferson County, Alabama, 35206, Stati Uniti d'America","353384255",place,house,8th Avenue South,,,,Birmingham,Alabama,Stati Uniti d'America,"35206",./0.png
+-86.7081470019395,33.5671615827828,"8411 8th Avenue South, Birmingham",way,"8411, 8th Avenue South, Lakewood, Birmingham, Jefferson County, Alabama, 35206, Stati Uniti d'America","353384255",place,house,8th Avenue South,,,,Birmingham,Alabama,Stati Uniti d'America,"35206",./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"7525 Ashton Place, Trussville",,,,,,,,,,,,,,./0.png
+0,0,"1131 Harrison Avenue, Bessemer",,,,,,,,,,,,,,./0.png
+-86.8310255240538,33.4153647630992,"2316 Tyler Road, Hoover",way,"2316, Tyler Road, Mountain Branch Estates, Hoover, Jefferson County, Alabama, 35226, Stati Uniti d'America","353436328",place,house,Tyler Road,,,,Hoover,Alabama,Stati Uniti d'America,"35226",./0.png
+74.7247252746277,23.2178602,unknown,relation,"Unknown, Amarpura Kalan, Rawti Tahsil, Ratlam District, Madhya Pradesh, India","372197706",boundary,administrative,,Amarpura Kalan,Unknown,,,Madhya Pradesh,India,,./0.png
+-86.8299781,33.4471767,"500 Wildwood Circle N, Homewood",node,"TownePlace Suites Birmingham Homewood, 500, Wildwood Circle North, Birmingham, Jefferson County, Alabama, 35209, Stati Uniti d'America","286067",tourism,hotel,Wildwood Circle North,,,,Birmingham,Alabama,Stati Uniti d'America,"35209",./0.png
+-86.8132227790711,33.5970324483116,"1026 Chapel Creek Lane, Fultondale",way,"1026, Chapel Creek Lane, Fultondale, Jefferson County, Alabama, 35068, Stati Uniti d'America","353434038",place,house,Chapel Creek Lane,,,Fultondale,,Alabama,Stati Uniti d'America,"35068",./0.png
+-86.7953095609602,33.6155524013253,"807 Republic Avenue, Fultondale",way,"807, Republic Avenue, Fulton Springs, Fultondale, Jefferson County, Alabama, 35068, Stati Uniti d'America","353364289",place,house,Republic Avenue,,,Fultondale,,Alabama,Stati Uniti d'America,"35068",./0.png
+-86.8732699354839,33.5464912258064,"1518 Chevelle Street, Birmingham",way,"1518, Chevelle Street, Pratt City, Birmingham, Jefferson County, Alabama, 35214, Stati Uniti d'America","353407279",place,house,Chevelle Street,,,,Birmingham,Alabama,Stati Uniti d'America,"35214",./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"1112 Cimmaron Trail, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8362124615385,33.5231812692308,"1160 Center Street North, Birmingham",way,"1160, Center Street North, East Thomas, Birmingham, Jefferson County, Alabama, 35204, Stati Uniti d'America","353432607",place,house,Center Street North,,,,Birmingham,Alabama,Stati Uniti d'America,"35204",./0.png
+0,0,"2421 Putman Place, Hoover",,,,,,,,,,,,,,./0.png
+-86.8297795918367,33.5035220204082,"312 1st Avenue North, Birmingham",way,"312, 1st Avenue North, Elyton, Birmingham, Jefferson County, Alabama, 35204, Stati Uniti d'America","353383797",place,house,1st Avenue North,,,,Birmingham,Alabama,Stati Uniti d'America,"35204",./0.png
+-86.9800534489796,33.4353768979592,"117 Opal Avenue, Hueytown",way,"117, Opal Avenue, Brooklane Place, Hueytown, Jefferson County, Alabama, 35023, Stati Uniti d'America","353385576",place,house,Opal Avenue,,,Hueytown,,Alabama,Stati Uniti d'America,"35023",./0.png
+-86.8422282244898,33.5072225306122,"405 4th Avenue West, Birmingham",way,"405, 4th Avenue West, Elyton Village, Smithfield, Birmingham, Jefferson County, Alabama, 35204, Stati Uniti d'America","353419980",place,house,4th Avenue West,,,,Birmingham,Alabama,Stati Uniti d'America,"35204",./0.png
+-86.9180645510204,33.5037898163265,"4120 9th Avenue Wylam, Birmingham",way,"4120, 9th Avenue, Falls Junction, Birmingham, Jefferson County, Alabama, 35224, Stati Uniti d'America","353397497",place,house,9th Avenue,,,,Birmingham,Alabama,Stati Uniti d'America,"35224",./0.png
+-86.9378497300299,33.4026076670093,"2421 Fairfax Avenue, Bessemer",way,"2421, Fairfax Avenue, Longbrook Estates, Bessemer Homestead, Bessemer, Jefferson County, Alabama, 35020, Stati Uniti d'America","353404327",place,house,Fairfax Avenue,,,Bessemer,,Alabama,Stati Uniti d'America,"35020",./0.png
+0,0,"5417 Livington Oaks Circle, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8928830494739,33.456770499053,"3629 Hemlock Avenue SW, Birmingham",way,"3629, Hemlock Avenue Southwest, Park Place, Birmingham, Jefferson County, Alabama, 35221, Stati Uniti d'America","353427436",place,house,Hemlock Avenue Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35221",./0.png
+-86.7811124,33.529217,"3929 38th Street North, Birmingham",way,"38th Street North, Avondale, Birmingham, Jefferson County, Alabama, 35222, Stati Uniti d'America","208881",highway,unclassified,38th Street North,,,,Birmingham,Alabama,Stati Uniti d'America,"35222",./0.png
+-86.7118549074123,33.6032679598533,"308 Glynn Drive, Birmingham",way,"308, Glynn Drive, Sunrise East, Nelson Heights, Birmingham, Jefferson County, Alabama, 35215, Stati Uniti d'America","353393964",place,house,Glynn Drive,,,,Birmingham,Alabama,Stati Uniti d'America,"35215",./0.png
+-86.7160893355705,33.5531952885906,"7409 Queenstown Avenue, Birmingham",way,"7409, Queenstown Avenue, Central Highlands, Birmingham, Jefferson County, Alabama, 35206, Stati Uniti d'America","353417699",place,house,Queenstown Avenue,,,,Birmingham,Alabama,Stati Uniti d'America,"35206",./0.png
+0,0,"7945 Charles Barkley Avenue, Leeds",,,,,,,,,,,,,,./0.png
+0,0,"5926 Debbie Brive, Trussville",,,,,,,,,,,,,,./0.png
+74.7247252746277,23.2178602,unknown,relation,"Unknown, Amarpura Kalan, Rawti Tahsil, Ratlam District, Madhya Pradesh, India","372197706",boundary,administrative,,Amarpura Kalan,Unknown,,,Madhya Pradesh,India,,./0.png
+0,0,"93 Danes Lane, Holly Pond",,,,,,,,,,,,,,./0.png
+-86.7781162020202,33.5136224646465,"3500 Clairmont Ave, Birmingham",way,"3500, Clairmont Avenue South, Chestnut Hill Historic District, Birmingham, Jefferson County, Alabama, 35222, Stati Uniti d'America","353420876",place,house,Clairmont Avenue South,,,,Birmingham,Alabama,Stati Uniti d'America,"35222",./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+-86.964447,33.457698,"5852 Warrior River Road, Hueytown",way,"Old Warrior River Road, Garywood, Hueytown, Jefferson County, Alabama, 35061, Stati Uniti d'America","284909",highway,residential,Old Warrior River Road,,,Hueytown,,Alabama,Stati Uniti d'America,"35061",./0.png
+-86.990826,33.437687,"400 Willow Drive, Hueytown",way,"400, Willow Drive, Vineland Park, Hueytown, Jefferson County, Alabama, 35023, Stati Uniti d'America","353407655",place,house,Willow Drive,,,Hueytown,,Alabama,Stati Uniti d'America,"35023",./0.png
+-86.927526617243,33.4663218138697,"6707 Cherokee Drive, Fairfield",way,"6707, Cherokee Drive, Fair Oaks, Fairfield, Jefferson County, Alabama, 35064, Stati Uniti d'America","353419209",place,house,Cherokee Drive,,,Fairfield,,Alabama,Stati Uniti d'America,"35064",./0.png
+-86.8645802811588,33.5467026258939,"1956 Castleberry Way, Birmingham",way,"1956, Castleberry Way, Pratt City, Birmingham, Jefferson County, Alabama, 35214, Stati Uniti d'America","353385113",place,house,Castleberry Way,,,,Birmingham,Alabama,Stati Uniti d'America,"35214",./0.png
+-86.9426830522178,33.4402577219995,"4701 Huntsville Avenue, Brighton",way,"4701, Huntsville Avenue, Madison, Brighton, Jefferson County, Alabama, 35020, Stati Uniti d'America","353362841",place,house,Huntsville Avenue,Brighton,,,,Alabama,Stati Uniti d'America,"35020",./0.png
+0,0,"622 12th St No, Bessemer",,,,,,,,,,,,,,./0.png
+-86.8569558,33.48307155,"1635 Alemeda Ave SW, Birmingham",way,"1635, Alemeda Avenue Southwest, Beverly Station, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","353427927",place,house,Alemeda Avenue Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+-86.7254821335795,33.4920943103173,"3433 Westbury Road, Mountain Brook",way,"3433, Westbury Road, Mountain Brook, Jefferson County, Alabama, 35223, Stati Uniti d'America","353362484",place,house,Westbury Road,,,Mountain Brook,,Alabama,Stati Uniti d'America,"35223",./0.png
+-86.6840654175511,33.616683304341,"1128 Kawanda Ln, Birmingham",way,"1128, Kawanda Lane Northeast, Birmingham, Jefferson County, Alabama, 35215, Stati Uniti d'America","353361979",place,house,Kawanda Lane Northeast,,,,Birmingham,Alabama,Stati Uniti d'America,"35215",./0.png
+-86.7173155888534,33.5249478556333,"133 Elder Street, Birmingham",way,"133, Elder Street, Crestline Gardens, Springdale, Birmingham, Jefferson County, Alabama, 35210, Stati Uniti d'America","353406669",place,house,Elder Street,,,,Birmingham,Alabama,Stati Uniti d'America,"35210",./0.png
+0,0,"709 24th Ave NW, Birmiingham",,,,,,,,,,,,,,./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+-87.1848045753936,33.5138917,"100 Warrior Lane, Bessemer",way,"William E. Donaldson Correctional Facility, 100, Warrior Lane, Bessemer, Jefferson County, Alabama, 35023, Stati Uniti d'America","248715",amenity,prison,Warrior Lane,,,Bessemer,,Alabama,Stati Uniti d'America,"35023",./0.png
+-86.8835165510204,33.4904438979592,"4625 Avenue S, Birmingham",way,"4625, Avenue S, Central Park Highlands, Birmingham, Jefferson County, Alabama, 35208, Stati Uniti d'America","353364393",place,house,Avenue S,,,,Birmingham,Alabama,Stati Uniti d'America,"35208",./0.png
+-86.8541613658537,33.4965305365854,"424 12th Street SW, Birmingham",way,"424, 12th Street Southwest, Smithfield, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","353408791",place,house,12th Street Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+-86.8166382245986,33.329857693158,"4039 Saddle Run Circle, Pelham",way,"4039, Saddle Run Circle, Royal Oaks, Pelham, Shelby County, Alabama, 35124, Stati Uniti d'America","356458711",place,house,Saddle Run Circle,,,Pelham,,Alabama,Stati Uniti d'America,"35124",./0.png
+0,0,"811 Bainbridge Way, Irondale",,,,,,,,,,,,,,./0.png
+0,0,transient Birmingham,,,,,,,,,,,,,,./0.png
+-86.82565,33.4947613571429,"700 Omega Street, Birmingham",way,"700, Omega Street South, Birmingham, Jefferson County, Alabama, 35205, Stati Uniti d'America","353383946",place,house,Omega Street South,,,,Birmingham,Alabama,Stati Uniti d'America,"35205",./0.png
+-86.8660000656985,33.4583379086405,"2433 Tempest Drive, Birmingham",way,"2433, Tempest Drive Southwest, Ishkooda, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","353438777",place,house,Tempest Drive Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+-86.9381998163265,33.4114056122449,"206 30th Street South, Bessemer",way,"206, 30th Street South, Brickyard Junction, Bessemer, Jefferson County, Alabama, 35020, Stati Uniti d'America","353439142",place,house,30th Street South,,,Bessemer,,Alabama,Stati Uniti d'America,"35020",./0.png
+-86.8743369183673,33.5113972653061,"2604 18th Street Ensley, Birmingham",way,"2604, 18th Street Ensley, Shadyside, Birmingham, Jefferson County, Alabama, 35208, Stati Uniti d'America","353388307",place,house,18th Street Ensley,,,,Birmingham,Alabama,Stati Uniti d'America,"35208",./0.png
+0,0,"5524 Lybia Ave, Birmingham",,,,,,,,,,,,,,./0.png
+-86.9262815736833,33.3012538693233,"2694 Piedmont Drive, Helena",way,"2694, Piedmont Drive, Helena, Jefferson County, Alabama, 35022, Stati Uniti d'America","353423964",place,house,Piedmont Drive,,,Helena,,Alabama,Stati Uniti d'America,"35022",./0.png
+-86.9389520408163,33.4106170204082,"2911 Berkley Avenue, Bessemer",way,"2911, Berkley Avenue, Brickyard Junction, Bessemer, Jefferson County, Alabama, 35020, Stati Uniti d'America","353372631",place,house,Berkley Avenue,,,Bessemer,,Alabama,Stati Uniti d'America,"35020",./0.png
+-86.9138904897959,33.4850703877551,"320 53rd Street, Fairfield",way,"320, 53rd Street, Interurban Heights, Fairfield, Jefferson County, Alabama, 35064, Stati Uniti d'America","353441937",place,house,53rd Street,,,Fairfield,,Alabama,Stati Uniti d'America,"35064",./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8373161111111,33.4947661111111,"277 3rd Avenue SW, Birmingham",way,"277, 3rd Avenue Southwest, Elyton, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","353384205",place,house,3rd Avenue Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+0,0,"3409 Cedar Crest Circle, Hoover",,,,,,,,,,,,,,./0.png
+-86.7995686734694,33.5565628163265,"3332 33rd Place North, Birmingham",way,"3332, 33rd Place North, Douglasville, Birmingham, Jefferson County, Alabama, 35207, Stati Uniti d'America","353365454",place,house,33rd Place North,,,,Birmingham,Alabama,Stati Uniti d'America,"35207",./0.png
+-86.925272,33.413914,"5607 Avenue R, Bessemer",way,"Avenue R, Pauls Hill, Bessemer, Jefferson County, Alabama, 35020, Stati Uniti d'America","278372",highway,residential,Avenue R,,,Bessemer,,Alabama,Stati Uniti d'America,"35020",./0.png
+-86.6994238660121,33.6137488532172,"1176 Five Mile Road, Birmingham",way,"1176, Five Mile Road, Berkley Hills, Birmingham, Jefferson County, Alabama, 35215, Stati Uniti d'America","353393967",place,house,Five Mile Road,,,,Birmingham,Alabama,Stati Uniti d'America,"35215",./0.png
+0,0,"5286 Shady Crest Road, Mulga",,,,,,,,,,,,,,./0.png
+0,0,"4125 Huntsville Avenue, Bessemer",,,,,,,,,,,,,,./0.png
+-86.8042812214765,33.8232753758389,"205 7th Street East, Warrior",way,"205, 7th Street East, Warrior, Jefferson County, Alabama, 35180, Stati Uniti d'America","353447246",place,house,7th Street East,,,Warrior,,Alabama,Stati Uniti d'America,"35180",./0.png
+-86.8161818428763,33.4459398188025,"1671 Lakeshore Court, Homewood",way,"1671, Lakeshore Court, Lakewood Hills, Lakeview Park, Homewood, Jefferson County, Alabama, 35209, Stati Uniti d'America","353370054",place,house,Lakeshore Court,,,Homewood,,Alabama,Stati Uniti d'America,"35209",./0.png
+-86.9986638792718,33.3561775491901,"457 Flint Hill Rd, Bessemer",way,"457, Flint Hill Road, Bessemer, Jefferson County, Alabama, 35022, Stati Uniti d'America","353373656",place,house,Flint Hill Road,,,Bessemer,,Alabama,Stati Uniti d'America,"35022",./0.png
+-86.8787366660575,33.5603328937409,"1235 Grand Blvd, Birmingham",way,"1235, Grand Boulevard, Westchester Estates, Birmingham, Jefferson County, Alabama, 35214, Stati Uniti d'America","353389506",place,house,Grand Boulevard,,,,Birmingham,Alabama,Stati Uniti d'America,"35214",./0.png
+-86.6806324234652,33.6463042832204,"2320 2nd Street NE, Center Point",way,"2320, 2nd Street Northeast, Centercrest, Center Point, Jefferson County, Alabama, 35215, Stati Uniti d'America","353438015",place,house,2nd Street Northeast,,,Center Point,,Alabama,Stati Uniti d'America,"35215",./0.png
+-86.725696,33.609388,"52 Moonglow Drive, Birmingham",way,"52, Moonglow Drive, Sunrise East, Cloverdale, Birmingham, Jefferson County, Alabama, 35215, Stati Uniti d'America","353444764",place,house,Moonglow Drive,,,,Birmingham,Alabama,Stati Uniti d'America,"35215",./0.png
+-86.847200122449,33.4697892857143,"1824 13th Place SW, Birmingham",way,"1824, 13th Place Southwest, Mason City, Birmingham, Jefferson County, Alabama, 35211, Stati Uniti d'America","353394776",place,house,13th Place Southwest,,,,Birmingham,Alabama,Stati Uniti d'America,"35211",./0.png
+-86.7570476666667,33.5287216666667,"4904 7th Ave S, Birmingham",way,"4904, 7th Avenue South, Woodlawn, Birmingham, Jefferson County, Alabama, 35222, Stati Uniti d'America","353438232",place,house,7th Avenue South,,,,Birmingham,Alabama,Stati Uniti d'America,"35222",./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+-86.9023347913509,33.5681587402587,"1516 Haven Drive North, Forestdale",way,"1516, Haven Drive North, Forestdale, Jefferson County, Alabama, 35214, Stati Uniti d'America","353397183",place,house,Haven Drive North,Forestdale,,,,Alabama,Stati Uniti d'America,"35214",./0.png
+0,0,"1016 Dogwood Pl, Bessemer",,,,,,,,,,,,,,./0.png
+-86.877331,33.528565,"500 Avenue Y, Birmingham",way,"500, Avenue Y, Tuxedo Heights, Birmingham, Jefferson County, Alabama, 35214, Stati Uniti d'America","353440751",place,house,Avenue Y,,,,Birmingham,Alabama,Stati Uniti d'America,"35214",./0.png
+0,0,"1605 48th Street Ensley, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"302 Ginger Dr, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8332556020408,33.4766438061224,"259 Aspen Drive, Birmingham",way,"259, Aspen Drive, Birmingham, Jefferson County, Alabama, 35209, Stati Uniti d'America","353384542",place,house,Aspen Drive,,,,Birmingham,Alabama,Stati Uniti d'America,"35209",./0.png
+-86.9507981208054,33.4489150067114,"3824 Keys Avenue, Brighton",way,"3824, Keys Avenue, Brighton, Jefferson County, Alabama, 35020, Stati Uniti d'America","353364486",place,house,Keys Avenue,Brighton,,,,Alabama,Stati Uniti d'America,"35020",./0.png
+-86.8172220773403,33.5389699441799,"2020 Stouts Rd, Birmingham",way,"2020, Stouts Road, Birmingham, Jefferson County, Alabama, 35234, Stati Uniti d'America","353385444",place,house,Stouts Road,,,,Birmingham,Alabama,Stati Uniti d'America,"35234",./0.png
+0,0,transient Birmingham,,,,,,,,,,,,,,./0.png
+0,0,"6808 Java Avenue, Birmingham",,,,,,,,,,,,,,./0.png
+-86.6900415237687,33.6544646690219,"2624 2nd Place NW, Center Point",way,"2624, 2nd Place Northwest, Larkwood, Center Point, Jefferson County, Alabama, 35215, Stati Uniti d'America","353382545",place,house,2nd Place Northwest,,,Center Point,,Alabama,Stati Uniti d'America,"35215",./0.png
+-86.9415884268293,33.4029567439024,"2304 Dartmouth Ave, Bessemer",way,"2304, Dartmouth Avenue, Bessemer Homestead, Bessemer, Jefferson County, Alabama, 35020, Stati Uniti d'America","353371100",place,house,Dartmouth Avenue,,,Bessemer,,Alabama,Stati Uniti d'America,"35020",./0.png
+-86.8131424200977,33.4571127742997,"1042 Broadway Park, Homewood",way,"1042, Broadway Street, Lakeview Park, Homewood, Jefferson County, Alabama, 35209, Stati Uniti d'America","353420652",place,house,Broadway Street,,,Homewood,,Alabama,Stati Uniti d'America,"35209",./0.png
+0,0,"6814 Oaklawn Lane, McCalla",,,,,,,,,,,,,,./0.png
+-86.8827656745191,33.6175267945626,"1580 Republic Rd, Birmingham",way,"1580, Republic Road, Birmingham, Jefferson County, Alabama, 35214, Stati Uniti d'America","353411521",place,house,Republic Road,,,,Birmingham,Alabama,Stati Uniti d'America,"35214",./0.png
+-86.802795,33.419708,"3029 Massey Road, Vestavia",way,"3029, Massey Road, Crossgate, Gentilly Forest, Vestavia Hills, Jefferson County, Alabama, 35216, Stati Uniti d'America","353383825",place,house,Massey Road,,,Vestavia Hills,,Alabama,Stati Uniti d'America,"35216",./0.png
+-86.948028,33.524395,"5604 Kiska Avenue, Birmingham",way,"Kiska Avenue, Birmingham, Jefferson County, Alabama, 35224, Stati Uniti d'America","229604",highway,residential,Kiska Avenue,,,,Birmingham,Alabama,Stati Uniti d'America,"35224",./0.png
+0,0,"8006 Holly Circle, McCalla",,,,,,,,,,,,,,./0.png
+-86.7640729430108,33.5137524300509,"4418 10th Avenue South, Birmingham",way,"4418, 10th Avenue South, Forest Park, Birmingham, Jefferson County, Alabama, 35222, Stati Uniti d'America","353409814",place,house,10th Avenue South,,,,Birmingham,Alabama,Stati Uniti d'America,"35222",./0.png
+0,0,"1224 2th Street North, Bessemer",,,,,,,,,,,,,,./0.png
+-86.765664852147,33.6041085712825,"145 Springdale Road, Tarrant",way,"145, Springdale Road, Ketona, Tarrant City, Tarrant, Jefferson County, Alabama, 35217, Stati Uniti d'America","353396217",place,house,Springdale Road,,,Tarrant City,Tarrant,Alabama,Stati Uniti d'America,"35217",./0.png
+-86.6551391549296,33.5604952253521,"1935 Alton Road, Irondale",way,"1935, Alton Road, Weems, Birmingham, Jefferson County, Alabama, 35210, Stati Uniti d'America","353388940",place,house,Alton Road,,,,Birmingham,Alabama,Stati Uniti d'America,"35210",./0.png
+0,0,"101 Sharit Lane, Gardendale",,,,,,,,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,./0.png
+0,0,"4452 Pinson Blvd, Pinson",,,,,,,,,,,,,,./0.png
+0,0,"8423 3rd Ave So, Birmingham",,,,,,,,,,,,,,./0.png
+-86.8259738793537,33.5484073045467,"2012 29th Avenue North, Birmingham",way,"2012, 29th Avenue North, North Birmingham, Birmingham, Jefferson County, Alabama, 35207, Stati Uniti d'America","353443265",place,house,29th Avenue North,,,,Birmingham,Alabama,Stati Uniti d'America,"35207",./0.png
+-86.888923,33.501133,"1601 28th St. Ensley, Birmingham",way,"1601, 28th Street Ensley, Ensley Highlands, Birmingham, Jefferson County, Alabama, 35218, Stati Uniti d'America","353385008",place,house,28th Street Ensley,,,,Birmingham,Alabama,Stati Uniti d'America,"35218",./0.png
+-87.1848045753936,33.5138917,"100 Warrior Lane, Bessemer",way,"William E. Donaldson Correctional Facility, 100, Warrior Lane, Bessemer, Jefferson County, Alabama, 35023, Stati Uniti d'America","248715",amenity,prison,Warrior Lane,,,Bessemer,,Alabama,Stati Uniti d'America,"35023",./0.png
+-86.6763618130233,33.6207826260466,"637 Earline Circle, Birmingham",way,"637, Earline Circle, Spring Lake Estates, Birmingham, Jefferson County, Alabama, 35215, Stati Uniti d'America","353400554",place,house,Earline Circle,,,,Birmingham,Alabama,Stati Uniti d'America,"35215",./0.png
+0,0,"721 Katherine Cir, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"2903 Beckwich Road, Mount Juliet",,,,,,,,,,,,,,./0.png
+0,0,"1221 Grand Circ, Birmingham",,,,,,,,,,,,,,./0.png
+0,0,"Homeless, Birmingham",,,,,,,,,,,,,,./0.png
+74.7247252746277,23.2178602,unknown,relation,"Unknown, Amarpura Kalan, Rawti Tahsil, Ratlam District, Madhya Pradesh, India","372197706",boundary,administrative,,Amarpura Kalan,Unknown,,,Madhya Pradesh,India,,./0.png
+0,0,"6913 Oak Hurst Drive, Ocean Spring",,,,,,,,,,,,,,./0.png
+-86.8842953569903,33.3397909414692,"1613 Cheswood Circle, Hoover",way,"1613, Cheswood Circle, Eden Ridge, Shades Run, Hoover, Jefferson County, Alabama, 35244, Stati Uniti d'America","353412946",place,house,Cheswood Circle,,,,Hoover,Alabama,Stati Uniti d'America,"35244",./0.png
+74.7247252746277,23.2178602,unknown,relation,"Unknown, Amarpura Kalan, Rawti Tahsil, Ratlam District, Madhya Pradesh, India","372197706",boundary,administrative,,Amarpura Kalan,Unknown,,,Madhya Pradesh,India,,./0.png
+0,0,"2245 Old Pinson Rd, Tarrant",,,,,,,,,,,,,,./0.png
+0,0,"177 Oaklyn Hills Dr, Chelsea",,,,,,,,,,,,,,./0.png
+0,0,"3700 Rock Hill Road, Mountain Brook",,,,,,,,,,,,,,./0.png
